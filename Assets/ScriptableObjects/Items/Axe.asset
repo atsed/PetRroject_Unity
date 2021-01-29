@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3acbd3a78d604e579d2fe63a8b2db6e, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6531453435797158186, guid: 7bd50abda0039490887e6b9c9267966f, type: 3}
+  type: 1
+  description: Axe cuts down trees

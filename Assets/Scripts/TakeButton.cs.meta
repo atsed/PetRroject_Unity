@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86b6fc34719d0468eab8d8ec61e0397b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventory: {fileID: 11400000, guid: c75b4b23ee10f45b3a079cc0d782ccd6, type: 2}
+  - interactionButton: {instanceID: 0}
+  - takeButtonObj: {instanceID: 0}
+  - takeButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
